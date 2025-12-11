@@ -1,48 +1,46 @@
-<h2 align="left">Hi 👋! My name is M.Rafay Imran</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h1>Hi there 👋, I'm M.Rafay Imran</h1>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🚀 About Me
 
-###
+I am an **ambitious Cyber Security learner** currently expanding my knowledge in system administration, networking, and defensive practices. My passion lies in understanding how systems work from the ground up, which drives my current projects: building a personal home server and learning game development with Godot.
 
-<div align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*T966qYHNTRwrzrdo_HQCMw.gif" height="100" alt="Python animated logo">
-  
-  <img width="12" />
-  <img src="![e53254bd-abb3-4ec3-8ca0-b35f01e9026f](https://github.com/user-attachments/assets/e8e40c94-8dd8-4b56-9fe6-9755a760fa61)" height="100" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+I believe in continuous learning and applying technical skills to real-world scenarios.
+
+---
+
+### 🛠️ Skills & Technologies
+
+Here is a quick look at the technologies I use and those I am actively learning.
+
+<div align="left" height= '50'>
+  <!-- Horizontal series of animated GIFs for JS, Linux, and Python -->
+  ![lego-498-x-280-gif-stu1btiyby6xk4b8](https://github.com/user-attachments/assets/26d0bbcf-47f4-4087-9697-db7802a09b8d)
+
+
+ 
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🎯 Current Focus Areas
 
-###
+#### Cyber Security 🔐
+*   **Learning Focus:** Network Security, Pentesting fundamentals, Linux hardening, and Python scripting for automation/tool development.
 
-<br clear="both">
+#### DevOps & Infrastructure 🏠
+*   **Project:** Setting up a secure, reliable personal **home server** (likely running Debian or Ubuntu Server) for local services and experimentation.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+#### Game Development 🎮
+*   **Learning Focus:** Actively learning the **Godot Engine** to build a simple personal game project, focusing on GDScript and game logic.
 
-###
+---
+
+### 📫 Get In Touch
+
+*   **Email:** your.email@example.com
+*   **LinkedIn:** [Your LinkedIn Profile](linkedin.com)
+*   **Discord:** YourUsername#1234
